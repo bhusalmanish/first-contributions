@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 -[Rishabh Sharma](https://github.com/rishabh2209)
+[Manish Bhusal](https://github.com/bhusalmanish)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Ritesh](https://github.com/RiteshJha2000)
